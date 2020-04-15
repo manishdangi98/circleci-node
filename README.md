@@ -1,4 +1,5 @@
 # A Simple Nodejs API
+Continous Integration using Circle CI 
 
 ## Running the Application
 
